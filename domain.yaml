@@ -1,0 +1,5 @@
+lookup: local
+main_realm: main
+name: dev
+realms:
+- name: main
