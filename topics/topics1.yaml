@@ -1,4 +1,4 @@
-name: pubsub06.topic32
-schema: pubsub06.topic32.TopLevelMessage
+name: pubsub06-topic32
+schema: pubsub06-topic32.TopLevelMessage
 partitions: 32
 visibility_level: private

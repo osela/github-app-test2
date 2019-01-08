@@ -1,4 +1,4 @@
-- name: api1
+- name: api1-grpc
   protocol: grpc
   preferred_version: v3
   versions:
@@ -13,7 +13,7 @@
     path: app50.api1.v1/
     visibility_level: public
     deprecation_eol: '2018-12-10T23:02:56.568159344+02:00'
-- name: api1
+- name: api1-http
   protocol: http
   preferred_version: v3
   versions:
