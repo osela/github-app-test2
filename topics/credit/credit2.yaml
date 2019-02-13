@@ -1,0 +1,4 @@
+name: credit-topic12
+schema: bla2
+partitions: 10
+visibility: public

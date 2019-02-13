@@ -1,0 +1,10 @@
+name: audit-topic1
+schema: bla
+partitions: 5
+visibility: public
+---
+
+name: audit-topic2
+schema: bla
+partitions: 5
+visibility: public

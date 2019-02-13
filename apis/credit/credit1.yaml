@@ -1,0 +1,11 @@
+name: credit-http
+preferred_api: v1alpha2
+apis:
+- name: v1alpha1
+  protocol: http
+  path: /credit/v1alpha1
+  visibility: public
+- name: v1alpha2
+  protocol: http
+  path: /credit/v1alpha2
+  visibility: public
