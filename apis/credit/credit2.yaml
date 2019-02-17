@@ -1,6 +1,10 @@
 name: credit-grpc
-preferred_api: v1alpha2
+preferred_api: v1alpha3
 apis:
+- name: v1alpha1
+  protocol: grpc
+  path: /credit-grpc/v1alpha1
+  visibility: public
 - name: v1alpha2
   protocol: grpc
   path: /credit-grpc/v1alpha2
