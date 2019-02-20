@@ -9,6 +9,8 @@ apis:
   protocol: http
   path: /audit/v1alpha2
   visibility: public
+  labels:
+    bla: aaa
 ---
 name: audit-grpc
 preferred_api: v1alpha2
