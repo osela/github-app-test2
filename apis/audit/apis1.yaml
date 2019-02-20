@@ -23,3 +23,5 @@ apis:
   protocol: grpc
   path: /audit-grpc/v1alpha2
   visibility: private
+  labels:
+    hello: true
