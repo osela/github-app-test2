@@ -25,3 +25,4 @@ apis:
   visibility: private
   labels:
     hello: true
+    bla: bbb

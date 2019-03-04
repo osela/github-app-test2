@@ -2,6 +2,8 @@ name: audit-topic1
 schema: bla
 partitions: 5
 visibility: public
+labels:
+  hello: true
 ---
 
 name: audit-topic2
