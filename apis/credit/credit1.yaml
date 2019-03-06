@@ -1,5 +1,5 @@
 name: credit-http
-preferred_api: v1alpha2
+preferredAPI: v1alpha2
 apis:
 - name: v1alpha1
   protocol: http
