@@ -5,6 +5,7 @@ apis:
   protocol: http
   path: /audit/v1alpha1
   visibility: public
+  eol: 2019-03-12T10:30:02.299990567Z
 - name: v1alpha2
   protocol: http
   path: /audit/v1alpha2
